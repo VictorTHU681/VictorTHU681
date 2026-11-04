@@ -17,10 +17,8 @@
 - **鲲鹏高性能计算全球挑战赛 S2 赛季，三个赛题全部第一名**：队长
 - **SC26 SCC Connect（原 IndySCC）国际大学生超算竞赛**：队员，参与 MFC 赛题，主要做 MFC 在 Hopper GPU 上的性能调优
 
-## 公开代码与资料
+## 公开代码
 
 - [conv2d](https://github.com/VictorTHU681/conv2d)：鲲鹏 S2 CONV 赛题，基于 SME 的 FP32 卷积，结果与参考实现逐位一致
 - [trsm](https://github.com/VictorTHU681/trsm)：鲲鹏 S2 TRSM 赛题，手写 SME/SVE 的三角求解
 - [s2-zgemm](https://github.com/VictorTHU681/s2-zgemm)：鲲鹏 S2 ZGEMM 赛题，基于 SME 的复数双精度矩阵乘
-- [mfc-tuning-slides](https://github.com/VictorTHU681/mfc-tuning-slides)：MFC 3D_performance_test 的调优空间，分六层梳理（中文幻灯片）
-- [mfc-hllc-slides](https://github.com/VictorTHU681/mfc-hllc-slides)：讲解 MFC 中 HLLC 黎曼求解器的幻灯片与讲稿（中文）
