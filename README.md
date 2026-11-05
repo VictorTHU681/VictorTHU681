@@ -1,6 +1,6 @@
 # 王晨捷 · Chenjie Wang
 
-清华大学计算机系大三在读，意向方向：预训练 AI Infra。
+清华大学计算机系大三在读，意向方向：预训练 AI Infra、算子工程师。
 
 [简历（PDF）](CV_%E7%8E%8B%E6%99%A8%E6%8D%B7_THU.pdf) · wang-cj23@mails.tsinghua.edu.cn
 
