@@ -1,12 +1,12 @@
 # 王晨捷 · Chenjie Wang
 
-清华大学计算机系大三在读，意向方向：训练 AI Infra。
+清华大学计算机系大三在读，意向方向：预训练 AI Infra。
 
 [简历（PDF）](CV_%E7%8E%8B%E6%99%A8%E6%8D%B7_THU.pdf) · wang-cj23@mails.tsinghua.edu.cn
 
 ## 经历
 
-- **可灵 · 训练 AI Infra 实习生**（2026.06 – 至今）
+- **可灵 · 预训练 AI Infra 实习生**（2026.06 – 至今）
   - 可图（Kolors）训练显存优化：在 Hopper GPU 上将峰值显存从 140 GB 降至 70 GB
   - 可灵 V4 / V4 Pro 训练 MoE 优化（Blackwell GPU）：SonicMoE 的 MXFP8 改造（端到端提速 10%）、SonicMoE 改进、router 的 Tensor Core 改造（端到端提速 5%）
 - **清华 TSAIL 实验室**（2026.03 – 2026.06）：具身智能与强化学习方向科研，指导老师苏航
